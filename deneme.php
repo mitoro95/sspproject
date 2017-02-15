@@ -6,7 +6,9 @@
   </head>
   <body>
     <?php
-    echo "Hi"; ?>
+    echo "Hi";
+    define ('USERNAME', 'troutcity');
+    exho 'Hello, ' . USERNAME ?>
 
   </body>
 </html>
