@@ -8,7 +8,7 @@
     <?php
     echo "Hi";
     define ('USERNAME', 'troutcity');
-    exho 'Hello, ' . USERNAME ?>
+    exho 'Hello, ' . USERNAME; ?>
 
   </body>
 </html>
