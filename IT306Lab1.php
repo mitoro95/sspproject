@@ -22,6 +22,14 @@
     echo "Average is $avg";
     ?>
 
+    <?php
+    $a=$_POST['first'];
+    $b=$_POST['second'];
+    $c=$_POST['third'];
+    $max=max($a,$b,$c);
+    echo "Maximum is $avg";
+     ?>
+
 
 
   </body>
