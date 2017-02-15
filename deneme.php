@@ -7,7 +7,7 @@
   <body>
     <?php
     ini_set('display_errors', 1);
-    define("NAME", "Serdar Vural");
+    define('NAME', "Serdar Vural" <br>);
     $x = 10;
 
     echo "The value of constant name is NAME";
