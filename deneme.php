@@ -7,9 +7,7 @@
   <body>
     <?php
     ini_set('display_errors', 1);
-    echo "Hi";
-    define ('USERNAME', 'troutcity');
-    exho "Hello, " . USERNAME; ?>
+    echo "Hi"; ?>
 
 
   </body>
