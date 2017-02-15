@@ -6,6 +6,7 @@
   </head>
   <body>
     <?php
+    $USER = "Serdar";
     echo 'My username is ' .$_ENV["USER"] . '!';
     ?>
 
