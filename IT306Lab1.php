@@ -27,7 +27,7 @@
     $b=$_POST['second'];
     $c=$_POST['third'];
     $max=max($a,$b,$c);
-    echo "Maximum is $avg";
+    echo "Maximum is $max";
      ?>
 
 
