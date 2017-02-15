@@ -27,9 +27,9 @@
     // DB connection info
     //TODO: Update the values for $host, $user, $pwd, and $db
     //using the values you retrieved earlier from the Azure Portal.
-    $host = "eu-cdbr-azure-north-e.cloudapp.net:3306";
-    $user = "sspdb@b312eee10ca5ed";
-    $pwd = "8de8dafe";
+    $host = "eu-cdbr-azure-west-d.cloudapp.net";
+    $user = "bf4e9295ce98d6";
+    $pwd = "cc63d47d";
     $db = "sspdb";
     // Connect to database.
     try {
