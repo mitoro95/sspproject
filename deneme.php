@@ -7,9 +7,12 @@
   <body>
     <?php
     ini_set('display_errors', 1);
-    echo "Hi";
-    define ('USERNAME', 'troutcity');
-    echo "Hello, " . USERNAME; ?>
+    define(NAME, "Serdar Vural");
+    $x = 10;
+
+    echo "The value of constant name is NAME";
+    echo "X is $x";
+     ?>
 
 
   </body>
