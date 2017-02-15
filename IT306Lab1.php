@@ -5,8 +5,9 @@
     <title></title>
   </head>
   <body>
-    <a href="indexi.php">home</a>
-    <a href="deneme.php">deneme</a>
-    <a href="I306Lab1.php">Lab1</a>
+    <?php
+    echo 'My username is ' .$_ENV["USER"] . '!';
+    ?>
+
   </body>
 </html>
