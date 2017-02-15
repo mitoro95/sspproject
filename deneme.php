@@ -9,7 +9,7 @@
     ini_set('display_errors', 1);
     echo "Hi";
     define ('USERNAME', 'troutcity');
-    exho 'Hello, ' . USERNAME; ?>
+    exho "Hello, " . USERNAME; ?>
 
 
   </body>
