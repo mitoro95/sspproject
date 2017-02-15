@@ -10,7 +10,7 @@
     define('NAME', 'Serdar Vural');
     $x = 10;
 
-    echo "The value of constant name is" .NAME "<br>";
+    echo "The value of constant name is " .NAME;
     echo "X is $x";
      ?>
 
